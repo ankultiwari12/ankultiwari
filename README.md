@@ -1,4 +1,4 @@
-# ankultiwari
+# Ankul Tiwari
 <h1 align="center">Hi 👋, I'm Ankul Tiwari</h1>
 <h3 align="center">A passionate Digital Marketer from India</h3>
 
